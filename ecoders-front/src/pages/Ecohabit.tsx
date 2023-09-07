@@ -34,7 +34,7 @@ function Ecohabit () {
     // 리스트 리셋 핸들러
     const resetMissionHandler = () => {
 
-    };
+    }; // 테스트임
 
     // 오늘의 미션 데이터 받아오기
     // useEffect(() => {
